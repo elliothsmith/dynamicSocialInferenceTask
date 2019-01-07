@@ -1,0 +1,14 @@
+ start of task: 254
+ fixation point: 200
+ start of movie: 1-nMovies
+ end of movie: 190
+ end of delay period: 191
+ question identity: emotional[194], semantic[195], catch[196]
+ question 1 onset:198
+ question 2 onset:199
+ responded yes: 201
+ responded no: 202
+ max RT exceeded : 222
+ iti start: 210
+ iti end: 211
+ end of task: 255
